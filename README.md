@@ -16,5 +16,16 @@
 
 ## Aula 02: Representação visual da DOM
 
-![Alt text](dom_por_cahfelix.jpg "Title"))
+![Alt text](_imgs/dom_por_cahfelix.jpg "DOM"))
 
+## Aula 03: getElementById
+
+    *getElementById: retorna o HTML
+    
+    *getElementsByClassName: retorna uma lista HTMLCollection
+    
+    *getElementByTagName: retorna uma lista HTMLCollection
+    
+    *querySelector: retorna apenas o primeiro nó encontrado
+    
+    *querySelectorAll: retorna uma nodeList, este aceita o uso do forEach
