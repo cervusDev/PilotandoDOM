@@ -9,3 +9,4 @@ console.log(headerId.getAttribute('class'))
 
 header.removeAttribute('id')
 header.removeAttribute('class')
+header.setAttribute('bg')
